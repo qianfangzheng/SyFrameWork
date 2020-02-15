@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: dev
+swagger:
+  production: false
+  basic:
+    enable: false
+    username: sy
+    password: sy1314
